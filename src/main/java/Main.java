@@ -11,6 +11,14 @@ public class Main {
         System.out.println("tal 2: ");
         int b = scanner.nextInt();
         System.out.println();
+        int A = 1000;
+        int c = 12;
+        System.out.println(A-c);
+        int fem = 5;
+        if (fem == 5) {
+            System.out.println(55);
+        }
+
 
         System.out.println("resultat: " + a+b);
 

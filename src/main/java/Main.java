@@ -19,7 +19,6 @@ public class Main {
             System.out.println(55);
         }
 
-
         System.out.println("resultat: " + a+b);
 
         System.out.println("ganggang");

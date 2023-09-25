@@ -10,11 +10,19 @@ public class Main {
         int a = scanner.nextInt();
         System.out.println("tal 2: ");
         int b = scanner.nextInt();
-
         System.out.println();
 
         System.out.println("resultat: " + a+b);
 
-
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
+        System.out.println("ganggang");
     }
 }

@@ -4,5 +4,10 @@ public class Main {
         int A = 1000;
         int b = 12;
         System.out.println(A-b);
+        int fem = 5;
+        if (fem == 5) {
+            System.out.println(55);
+        }
+
     }
 }
